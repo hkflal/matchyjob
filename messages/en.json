@@ -1,0 +1,146 @@
+{
+  "navigation": {
+    "home": "Home",
+    "findJobs": "Find Jobs",
+    "companies": "Companies",
+    "about": "About",
+    "login": "Log in",
+    "register": "Register",
+    "getStarted": "Get Started",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "applications": "Applications",
+    "signOut": "Sign out"
+  },
+  "homepage": {
+    "heroTitle": "Find Your Dream Job in Hong Kong",
+    "heroSubtitle": "Connect with top employers and discover opportunities that match your skills and ambitions. Join thousands of professionals who trust HK Job Pro.",
+    "searchPlaceholder": "Job title, keywords, or company",
+    "locationPlaceholder": "Hong Kong",
+    "searchButton": "Search",
+    "popularSearches": "Popular searches",
+    "ctaTitle": "Ready to Find Your Next Opportunity?",
+    "ctaSubtitle": "Join thousands of professionals who have found their dream jobs through HK Job Pro.",
+    "createAccount": "Create Account",
+    "browseJobs": "Browse Jobs"
+  },
+  "stats": {
+    "activeJobs": "Active Jobs",
+    "companies": "Companies",
+    "successStories": "Success Stories",
+    "newJobsDaily": "New Jobs Daily"
+  },
+  "features": {
+    "title": "Why Choose HK Job Pro?",
+    "subtitle": "We're revolutionizing job searching in Hong Kong with modern tools and personalized experiences.",
+    "smartMatching": {
+      "title": "Smart Job Matching",
+      "description": "Our AI-powered system matches you with relevant opportunities based on your skills and preferences."
+    },
+    "realTimeUpdates": {
+      "title": "Real-time Updates",
+      "description": "Get instant notifications when new jobs that match your criteria are posted."
+    },
+    "companyInsights": {
+      "title": "Company Insights",
+      "description": "Access detailed company profiles, culture insights, and employee reviews."
+    },
+    "applicationTracking": {
+      "title": "Application Tracking",
+      "description": "Keep track of all your applications and their status in one centralized dashboard."
+    },
+    "mobileOptimized": {
+      "title": "Mobile Optimized",
+      "description": "Job search on the go with our fully responsive mobile-first design."
+    },
+    "securePrivate": {
+      "title": "Secure & Private",
+      "description": "Your data is protected with enterprise-grade security and privacy controls."
+    }
+  },
+  "companies": {
+    "heroTitle": "Discover Top Companies",
+    "heroSubtitle": "Explore leading employers in Hong Kong and find your perfect workplace. Connect with companies that value your skills and ambitions.",
+    "searchPlaceholder": "Search companies by name, industry, or location...",
+    "searchButton": "Search",
+    "featuredCompanies": "Featured Companies",
+    "companiesFound": "companies found",
+    "employees": "employees",
+    "openPositions": "open positions",
+    "viewProfile": "View Profile",
+    "viewJobs": "View Jobs",
+    "noCompaniesFound": "No companies found",
+    "adjustSearch": "Try adjusting your search criteria",
+    "ctaTitle": "Are You a Company Looking to Hire?",
+    "ctaSubtitle": "Join hundreds of companies that trust HK Job Pro to find the best talent.",
+    "postJobs": "Post Jobs",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "heroTitle": "Revolutionizing Job Search in Hong Kong",
+    "heroSubtitle": "We're on a mission to connect talented individuals with amazing opportunities, using modern technology to make job searching and hiring more efficient than ever.",
+    "missionTitle": "Our Mission",
+    "missionDescription": "To bridge the gap between exceptional talent and outstanding opportunities through innovative technology and deep market understanding.",
+    "whyStartedTitle": "Why We Started HK Job Pro",
+    "reason1": "Traditional job boards were outdated and difficult to navigate, creating friction for both job seekers and employers.",
+    "reason2": "The Hong Kong job market needed a platform that understood local nuances and business culture.",
+    "reason3": "Technology could make job matching more intelligent and efficient for everyone involved.",
+    "visionTitle": "Our Vision",
+    "visionDescription": "To become Hong Kong's most trusted and efficient job recruitment platform, where every job seeker finds their ideal career path and every employer discovers exceptional talent.",
+    "valuesTitle": "Our Core Values",
+    "valuesSubtitle": "These principles guide everything we do and shape the culture of our platform.",
+    "innovation": {
+      "title": "Innovation First",
+      "description": "We leverage cutting-edge technology to create the most efficient job matching platform."
+    },
+    "peopleCentric": {
+      "title": "People-Centric",
+      "description": "Every feature is designed with real user needs in mind, ensuring the best experience for all."
+    },
+    "qualityAssured": {
+      "title": "Quality Assured",
+      "description": "We maintain high standards in everything we do, from job listings to candidate profiles."
+    },
+    "hongKongFocused": {
+      "title": "Hong Kong Focused",
+      "description": "Deep understanding of the local job market and business culture in Hong Kong."
+    },
+    "teamTitle": "Meet Our Team",
+    "teamSubtitle": "A diverse group of professionals passionate about transforming the job search experience.",
+    "technologyTitle": "Built with Modern Technology",
+    "technologySubtitle": "We use cutting-edge technologies to deliver a fast, secure, and reliable platform.",
+    "performanceFirst": "Performance First",
+    "performanceDescription": "Lightning-fast page loads and real-time updates ensure you never miss an opportunity.",
+    "securityFocused": "Security Focused",
+    "securityDescription": "Enterprise-grade security protects your personal information and ensures data privacy.",
+    "aiPowered": "AI-Powered",
+    "aiDescription": "Smart algorithms help match the right candidates with the perfect job opportunities.",
+    "ctaTitle": "Ready to Join Our Community?",
+    "ctaSubtitle": "Whether you're looking for your next career opportunity or seeking top talent, we're here to help.",
+    "getStartedToday": "Get Started Today",
+    "browseJobs": "Browse Jobs"
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "contactUs": "Contact Us",
+    "allRightsReserved": "All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "welcome": "Welcome",
+    "new": "New",
+    "details": "Details"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "navigation": {
+    "home": "主頁",
+    "findJobs": "搜尋職位",
+    "companies": "公司",
+    "about": "關於我們",
+    "login": "登入",
+    "register": "註冊",
+    "getStarted": "開始使用",
+    "dashboard": "控制台",
+    "profile": "個人檔案",
+    "settings": "設定",
+    "applications": "申請記錄",
+    "signOut": "登出"
+  },
+  "homepage": {
+    "heroTitle": "在香港找到您的夢想工作",
+    "heroSubtitle": "與頂尖僱主聯繫，發掘與您的技能和抱負相匹配的機會。加入數以千計信任 HK Job Pro 的專業人士。",
+    "searchPlaceholder": "職位名稱、關鍵字或公司",
+    "locationPlaceholder": "香港",
+    "searchButton": "搜尋",
+    "popularSearches": "熱門搜尋",
+    "ctaTitle": "準備好尋找您的下一個機會了嗎？",
+    "ctaSubtitle": "加入數以千計通過 HK Job Pro 找到夢想工作的專業人士。",
+    "createAccount": "建立帳戶",
+    "browseJobs": "瀏覽職位"
+  },
+  "stats": {
+    "activeJobs": "活躍職位",
+    "companies": "公司",
+    "successStories": "成功故事",
+    "newJobsDaily": "每日新職位"
+  },
+  "features": {
+    "title": "為什麼選擇 HK Job Pro？",
+    "subtitle": "我們正在通過現代工具和個性化體驗革命化香港的求職體驗。",
+    "smartMatching": {
+      "title": "智能職位匹配",
+      "description": "我們的AI驅動系統根據您的技能和偏好為您匹配相關機會。"
+    },
+    "realTimeUpdates": {
+      "title": "即時更新",
+      "description": "當符合您條件的新職位發佈時，立即獲得通知。"
+    },
+    "companyInsights": {
+      "title": "公司洞察",
+      "description": "獲取詳細的公司檔案、文化見解和員工評價。"
+    },
+    "applicationTracking": {
+      "title": "申請追蹤",
+      "description": "在一個集中的控制台中追蹤您所有申請及其狀態。"
+    },
+    "mobileOptimized": {
+      "title": "手機優化",
+      "description": "通過我們完全響應式的手機優先設計隨時隨地求職。"
+    },
+    "securePrivate": {
+      "title": "安全私密",
+      "description": "您的數據受到企業級安全和隱私控制的保護。"
+    }
+  },
+  "companies": {
+    "heroTitle": "發現頂尖公司",
+    "heroSubtitle": "探索香港的領先僱主，找到您的完美工作場所。與重視您技能和抱負的公司聯繫。",
+    "searchPlaceholder": "按公司名稱、行業或地點搜尋...",
+    "searchButton": "搜尋",
+    "featuredCompanies": "精選公司",
+    "companiesFound": "找到公司",
+    "employees": "員工",
+    "openPositions": "個開放職位",
+    "viewProfile": "查看檔案",
+    "viewJobs": "查看職位",
+    "noCompaniesFound": "未找到公司",
+    "adjustSearch": "請嘗試調整您的搜尋條件",
+    "ctaTitle": "您是正在尋找人才的公司嗎？",
+    "ctaSubtitle": "加入數百家信任 HK Job Pro 尋找最佳人才的公司。",
+    "postJobs": "發佈職位",
+    "learnMore": "了解更多"
+  },
+  "about": {
+    "heroTitle": "革新香港求職體驗",
+    "heroSubtitle": "我們的使命是連接有才華的個人與絕佳的機會，運用現代科技讓求職和招聘比以往更高效。",
+    "missionTitle": "我們的使命",
+    "missionDescription": "通過創新科技和深入的市場理解，在卓越人才和出色機會之間架起橋樑。",
+    "whyStartedTitle": "我們為什麼創立 HK Job Pro",
+    "reason1": "傳統求職網站過時且難以導航，為求職者和僱主都造成了摩擦。",
+    "reason2": "香港就業市場需要一個了解本地細節和商業文化的平台。",
+    "reason3": "科技可以讓職位匹配對所有參與者都更智能和高效。",
+    "visionTitle": "我們的願景",
+    "visionDescription": "成為香港最受信任和高效的求職招聘平台，讓每個求職者都能找到理想的職業道路，每個僱主都能發現卓越人才。",
+    "valuesTitle": "我們的核心價值",
+    "valuesSubtitle": "這些原則指導我們所做的一切，並塑造我們平台的文化。",
+    "innovation": {
+      "title": "創新優先",
+      "description": "我們運用尖端科技創造最高效的職位匹配平台。"
+    },
+    "peopleCentric": {
+      "title": "以人為本",
+      "description": "每個功能都以真實用戶需求為設計出發點，確保所有人都獲得最佳體驗。"
+    },
+    "qualityAssured": {
+      "title": "品質保證",
+      "description": "我們在所做的一切中都保持高標準，從職位列表到候選人檔案。"
+    },
+    "hongKongFocused": {
+      "title": "專注香港",
+      "description": "深入了解香港本地就業市場和商業文化。"
+    },
+    "teamTitle": "認識我們的團隊",
+    "teamSubtitle": "一個多元化的專業團隊，致力於改變求職體驗。",
+    "technologyTitle": "以現代科技構建",
+    "technologySubtitle": "我們使用尖端科技提供快速、安全且可靠的平台。",
+    "performanceFirst": "性能優先",
+    "performanceDescription": "閃電般快速的頁面加載和即時更新確保您不會錯過任何機會。",
+    "securityFocused": "專注安全",
+    "securityDescription": "企業級安全保護您的個人信息並確保數據隱私。",
+    "aiPowered": "AI驅動",
+    "aiDescription": "智能算法幫助將合適的候選人與完美的工作機會匹配。",
+    "ctaTitle": "準備加入我們的社群了嗎？",
+    "ctaSubtitle": "無論您是在尋找下一個職業機會還是尋求頂尖人才，我們都在這裡幫助您。",
+    "getStartedToday": "今天就開始",
+    "browseJobs": "瀏覽職位"
+  },
+  "footer": {
+    "privacyPolicy": "隱私政策",
+    "termsOfService": "服務條款",
+    "contactUs": "聯繫我們",
+    "allRightsReserved": "版權所有。"
+  },
+  "common": {
+    "loading": "載入中...",
+    "error": "錯誤",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "確認",
+    "save": "儲存",
+    "edit": "編輯",
+    "delete": "刪除",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "welcome": "歡迎",
+    "new": "新增",
+    "details": "詳細資料"
+  }
+}

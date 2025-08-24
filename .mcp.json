@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "supabase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest",
+        "--read-only",
+        "--project-ref=hk-job-pro"
+      ],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhrLWphbWktcHJvIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczNDk0NjUyOCwiZXhwIjoyMDQwNjIyNTI4fQ.0-0000000000000000000000000000000000000000000000000000000000000000"
+      }
+    }
+  }
+}
